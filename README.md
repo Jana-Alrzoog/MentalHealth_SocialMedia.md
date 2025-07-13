@@ -1,4 +1,4 @@
-# Mental Health & Social Media Usage
+
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/777050f4-1c34-4d86-b0dd-6f097fee8bc1" />
 
