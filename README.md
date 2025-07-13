@@ -1,6 +1,6 @@
 # Mental Health & Social Media Usage
 
-![The Relationship Between Social Media Usage and Mental Health](6902dd5f-c65a-41d2-83a8-461dd45b69ae.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/777050f4-1c34-4d86-b0dd-6f097fee8bc1" />
 
 ## 📊 Project Overview
 
