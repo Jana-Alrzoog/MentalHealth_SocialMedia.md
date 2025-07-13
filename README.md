@@ -1,7 +1,10 @@
+<h1 align="center">The Relationship Between Social Media Usage and Mental Health</h1>
 
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/777050f4-1c34-4d86-b0dd-6f097fee8bc1" />
+</p>
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/777050f4-1c34-4d86-b0dd-6f097fee8bc1" />
-
+---
 ## 📊 Project Overview
 
 This project explores the **relationship between social media usage and mental health symptoms** such as anxiety, stress, and depression. Using a dataset that includes platform usage, timing, and mental health indicators, the analysis aims to identify patterns and correlations that may reflect the psychological effects of social media.
